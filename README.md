@@ -4,7 +4,6 @@
 
 **让 Codex 在多个会话之间记住真正重要的项目上下文。**
 
-[![GitHub release](https://img.shields.io/github/v/release/zhangyutong59188/project-memory-manager?display_name=tag)](https://github.com/zhangyutong59188/project-memory-manager/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Codex Skill](https://img.shields.io/badge/Codex-Skill-6E56CF)](SKILL.md)
 
