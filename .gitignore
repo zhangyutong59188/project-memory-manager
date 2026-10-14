@@ -1,0 +1,7 @@
+# Local project memory and runtime files
+.memory/
+*.log
+.DS_Store
+__pycache__/
+.venv/
+.env

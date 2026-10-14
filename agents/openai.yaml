@@ -1,0 +1,4 @@
+interface:
+  display_name: Project Memory Manager
+  short_description: Preserve durable project context across Codex sessions
+  default_prompt: Maintain the project's .memory files while completing this task. Read existing memory first, record durable decisions and failures, and append a concise session summary when finished.
